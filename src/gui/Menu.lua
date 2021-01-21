@@ -19,6 +19,7 @@ function Menu:init(def)
         items = def.items,
         x = def.x,
         y = def.y,
+        cursor = def.cursor,
         width = def.width,
         height = def.height
     }
